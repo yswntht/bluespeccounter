@@ -3,4 +3,4 @@ TOPMODULE=mkCounter8
 PROJECT=$(shell pwd)
 TESTBENCH=mkCounterSynth.bsv
 
-include ../sPAT/Makefile.common
+include ../sPAT/scripts/Makefile.common
